@@ -1,2 +1,2 @@
-# Make Binder open the JupyterLab IDE instead of the classic file browser.
-c.ServerApp.default_url = "/lab"
+# Open the Linux desktop (Jupyter Desktop Server) when Binder starts.
+c.ServerApp.default_url = "/desktop"

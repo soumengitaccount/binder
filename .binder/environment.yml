@@ -5,3 +5,5 @@ dependencies:
   - python=3.12
   - jupyterlab>=4,<5
   - ipykernel
+  - jupyter-desktop-server
+  - firefox
